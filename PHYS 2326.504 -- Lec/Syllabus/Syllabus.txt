@@ -1,0 +1,137 @@
+F. S. Rodrigues – PHYS2326: Electromagnetism and Waves
+The University of Texas at Dallas – Page 1
+PHYS2326 – Electromagnetism and Waves
+1. Course Information
+Course Number / Section: 2326.501
+Course Title: Electromagnetism and Waves
+Term: Spring 2017
+Lecture days and times: TR 05:30 pm – 06:45 pm
+Location: SLC 1.102
+2. Instructor Contact Information
+Instructor: Dr. Fabiano Rodrigues
+Office’s phone number: (972) 883 4526
+E-mail address: fabiano@utdallas.edu
+Instructor’s office hours and location: TBD
+Teaching Assistant (TA) office hours and location: TBD
+3. Course Pre-requisites, Co-requisites, and/or Other Restrictions
+Prerequisites: PHYS 2325 (Mechanics) and MATH 2419 (Calculus II) or MATH 2414 (Integral
+Calculus) or equivalent. Students must register for Physics Lab II (PHYS 2126). Familiarity with
+basic mathematics (including algebra, geometry, trigonometry and basic integral and differential
+calculus) is required and assumed.
+4. Textbook and Materials
+• Book: University Physics with Modern Physics (14thedition)
+by Young and Freedman, publisher Pearson.
+• MasteringPhysics: If you are purchasing the book, make
+sure that it includes the student access kit in order to do the
+online homework assignments. If you already have the book
+and are not already registered, you will need to register at
+http://www.masteringphysics.com so that you can access the
+homework assignments for this class. When registering, you
+will be asked for the MasteringPhysics course ID for this
+class, which is S17PHYS2326RODRIGUES.
+• You will also need a scientific calculator. Calculators with
+graphing and/or memory capability will not be allowed during
+any type of assessment, including exams. Bring your
+calculator to lectures as well to double-check any calculations
+we make.
+F. S. Rodrigues – PHYS2326: Electromagnetism and Waves
+The University of Texas at Dallas – Page 2
+5. Student Learning Objectives/Outcomes
+The primary objectives of the course are (a) to gain an understanding of electromagnetism and
+its relevance to the real world and (b) to develop the problem-solving skills needed for a
+successful career in sciences and engineering.
+As a result of the course, the student is expected to demonstrate an understanding of the key
+concepts of electricity and magnetism - the laws, theories and relevant findings - and to be able
+to apply this knowledge to solving problems.
+Topics include:
+• Electric Charge, Electric Force and Electric Field
+• Coulomb’s Law and Gauss's Law
+• Electric Potential Energy and Potential
+• Capacitance and Dielectrics
+• Electric Current and Resistance
+• Direct Current (DC) Circuits
+• Magnetic Field and Magnetic Force
+• Lorentz force law for charged particles
+• Electromagnetic Induction
+• Faraday’s Law and Lenz’s Law
+• Inductance
+• Maxwell’s Equations
+• Electromagnetic Waves
+6. Assessments
+Final grades are determined from a combination of the items below.
+Exam 1* Exam 2* Exam 3* Final Homework Total
+Weight 25% 25% 25% 25% 25% 100%
+Date 2/9 3/9 4/13 TBD Weekly
+* The lowest grade among exams 1, 2, and 3 will be dropped. Important: No make-up exams. If
+you miss an exam, this will be your drop exam.
+7. Course grading
+A (≥ 93.0), A- (90.0 – 93.0), B+ (87.0 – 89.9), B (83.0 – 86.9), B- (80.0 – 82.9), C+ (77.0 - 79.9),
+C (73.0 - 76.9), C- (70.0 – 72.9), D+ (67.0 – 69.9), D (63.0 – 66.9), D- (60.0 – 62.9), F (< 60)
+8. UT Dallas Syllabus Policies and Procedures
+Information in the link below constitutes the University's policies and procedures:
+http://go.utdallas.edu/syllabus-policies
+F. S. Rodrigues – PHYS2326: Electromagnetism and Waves
+The University of Texas at Dallas – Page 3
+9. Attendance, Homework, and Exams
+• Attendance is not mandatory but students missing class without documented reason
+automatically waive their right to any extra credit work that might be offered during
+class.
+• Please, be kind to your colleagues (and instructor) and avoid interruptions by turning off
+your cell phones, laptops, and other electronics during lectures. Students failing to turn off
+their electronics agree, if invited by the instructor, to participate in the lecture. Also, you are
+asked to arrive and leave on time.
+• Any announcement will be made, primarily, in class.
+• Homework will be given through the website http://www.masteringphysics.com
+- Go to the website, login as a student and follow the instructions.
+- My course ID for this class is S17PHYS2326RODRIGUES.
+- Make sure the name you give the website matches your name of record at UTD.
+- No handwritten homework will be accepted.
+- HW assignments are released on Fridays at 11:59pm and are due at 11:59pm on the
+Saturday of the following week. Therefore, you have about 8 days to finish each HW.
+- Late HW submissions will not be accepted.
+- I strongly recommend you to print out your homework problems and do the work on your
+printouts. It is a convenient way to keep everything together. Successful students have done
+this in the past.
+- You will be allowed to 20 (!) attempts per question.
+- You are welcome to work together on homework but everyone must do their own
+problems. You will notice everyone has different numbers.
+• Exams will be in class and written.
+- Valid picture ID (Comet card or driver’s license) must be on your desk during exams.
+These will be checked.
+- You must bring a scientific calculator to exams. Graphing calculators and
+programmable calculators will not be allowed.
+- You must show all work for exams. There will be no credit for just numbers (relevant
+equations are required). You will not receive full credit for correct answers without work.
+- All exams will be closed book. Formulas will be provided with the exam. You must know
+the concepts and vocabulary for the exams. Exams will cover both in-class examples and
+homework.
+- Answers must be provided in ink. Bring pen and pencil to the exams.
+- You will be responsible for all the reading assignments even if we do not discuss them in
+class. This includes the power point slides available on eLearning.
+- Any question about an exam grade must be addressed by the next class day after handing
+out of the exam to the class. After that all grades are final.
+- Make-up exam: There will be no make-up exams. Instead, you will be able to drop one of
+the lowest exam grades. If you miss an exam, the grade for that missed exam will be
+automatically dropped. Use your chance of dropping a grade wisely!
+F. S. Rodrigues – PHYS2326: Electromagnetism and Waves
+The University of Texas at Dallas – Page 4
+• As usual, academic integrity is expected from all UT Dallas students. Here is a good
+resource if you need to understand how academic dishonesty affects you:
+http://www.utdallas.edu/deanofstudents/integrity/
+10. Resources for Student Success
+In addition to lectures, the following efforts are made and resources are available to help
+student success during this course:
+• Instructor office hours: And feel free to ask questions after class.
+• TA office hours: At least twice a week and not on the same days of instructor’s office
+hours.
+• Lecture slides: Copies of lecture slides will be made available on eLearning after each
+lecture.
+• Textbook: The lectures will follow closely the order, material, and notation used in the
+textbook.
+• Tutors: The Math Lab will make tutors available for this course. More information will be
+given after classes start.
+• Homework Assignments: Not only they will help you (a) better understand the material
+seen in class and (b) prepare you for the exams, but they will also be graded so that you will
+get credit for doing them.
+Note that the descriptions and timelines provided in this syllabus are subject to change
+at the discretion of the instruc
